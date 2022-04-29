@@ -1,7 +1,7 @@
 # Analysis-and-Visualization-of-Gender-Pay-Gap
 
-**Palak Tandel 19BCE1539
-Shraddha Mehta 19BCE1722**
+**Palak Tandel 19BCE1539**
+**Shraddha Mehta 19BCE1722**
 
 Our objective is to predict whether a male makes more than a female annually,  given the features in the dataset. We’ll be using machine learning prediction models to do so.
 
